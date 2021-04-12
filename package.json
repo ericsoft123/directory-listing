@@ -1,0 +1,19 @@
+{
+  "name": "tutor1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "child_process": "^1.0.2",
+    "directory-tree": "^2.2.7",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "web3": "^1.3.4"
+  }
+}
